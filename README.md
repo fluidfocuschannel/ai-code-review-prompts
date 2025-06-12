@@ -81,6 +81,10 @@ Feel free to:
 - Improve existing prompts
 - Share your feedback
 
+## ⚠️ Disclaimer
+
+These prompts generate AI-assisted code reviews that should supplement, not replace, human judgment. Always validate AI recommendations before implementing changes in production environments. Users are responsible for reviewing and testing all suggested modifications.
+
 ## 📄 License
 
 MIT License - feel free to use and modify.
