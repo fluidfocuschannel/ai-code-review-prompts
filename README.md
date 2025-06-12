@@ -19,7 +19,42 @@ A collection of comprehensive AI prompts for automated code reviews across diffe
 ## 📁 Available Prompts
 
 ### Java & Spring Boot
-- **`java/spring-boot-comprehensive.md`** - Complete review covering Java 21, Spring Boot 3+, security, SOLID principles, and performance
+- **`java/spring-boot-comprehensive.md`** - Enterprise-grade comprehensive review with 37+ detailed checks
+
+#### What Gets Reviewed:
+**🔍 Code Quality & Standards**
+- Java 21 modern features (records, pattern matching, sealed classes)
+- SOLID principles detailed analysis
+- Enterprise Java patterns and best practices
+- Code readability, maintainability, and documentation
+
+**🏗️ Spring Boot 3+ Framework Analysis**
+- Configuration and dependency injection patterns
+- REST API design and HTTP standards compliance
+- Data access layer optimization (JPA/Hibernate)
+- Security implementation (Spring Security 6+)
+- Testing strategies and coverage assessment
+
+**🔒 Security & Vulnerability Assessment**
+- Dependency vulnerability scanning (CVE detection)
+- OWASP Top 10 compliance validation
+- Authentication and authorization review
+- Input validation and data protection
+- Security headers and configuration analysis
+
+**⚡ Performance & Architecture**
+- Database query optimization and N+1 problem detection
+- Caching strategy evaluation
+- Memory management and resource cleanup
+- Microservices patterns and scalability assessment
+- Circuit breaker and resilience patterns
+
+**📊 Detailed Reporting**
+- File-by-file analysis with line numbers
+- Severity classification (Critical/High/Medium/Low)
+- Executive dashboard with quality scores
+- Implementation steps and prevention strategies
+- Technical debt assessment and prioritization
 
 ## 🛠️ Usage Example
 
